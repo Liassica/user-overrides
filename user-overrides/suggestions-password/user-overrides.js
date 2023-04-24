@@ -14,5 +14,8 @@ user_pref("dom.security.https_only_mode.upgrade_local", true);
 /* Enable file download verification. Preference of security over privacy. */
 user_pref("browser.safebrowsing.downloads.remote.enabled", true);
 
+/* Disable Pocket */
+user_pref("extensions.pocket.enabled", false);
+user_pref("extensions.pocket.onSaveRecs", false);
 
 
