@@ -17,5 +17,8 @@ user_pref("browser.safebrowsing.downloads.remote.enabled", true);
 /* Disable Firefox password saving for use with a different password manager */
 user_pref("signon.rememberSignons", false);
 
+/* Disable Pocket */
+user_pref("extensions.pocket.enabled", false);
+user_pref("extensions.pocket.onSaveRecs", false);
 
 
