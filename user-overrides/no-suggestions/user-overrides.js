@@ -21,6 +21,9 @@ user_pref("browser.urlbar.suggest.openpage", false);
 user_pref("browser.urlbar.suggest.topsites", false);
 user_pref("browser.urlbar.autoFill", false);
 
+/* Disable Pocket */
+user_pref("extensions.pocket.enabled", false);
+user_pref("extensions.pocket.onSaveRecs", false);
 
 
 
