@@ -6,6 +6,7 @@ There are four of them, all of them:
 - Enable searching from the URL bar
 - Upgrade local HTTP to HTTPS
 - Enabled download verification
+- Disable Pocket
 
 suggestions-password makes no further changes.
 
