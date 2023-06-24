@@ -1,17 +1,19 @@
 # user-overrides
-user-overrides.js files for Arkenfox. 
+Simple quality of life user-overrides.js files for [Arkenfox](https://github.com/arkenfox/user.js/). 
 
-There are four of them, all of them:
+I've made 4 presets.
+
+All of them:
 - Disable credit card and address autofill
 - Enable searching from the URL bar
 - Upgrade local HTTP to HTTPS
-- Enabled download verification
+- Enable download verification
 - Disable Pocket
 
 suggestions-password makes no further changes.
 
-no-password disables Firefox password saving for use of an different password manager.
+no-password disables Firefox password saving for use with a third-party password manager.
 
 no-suggestions disables all search bar autofill suggestions.
 
-no-suggestions-no-password disables both.
+no-suggestions-no-password disables both of the above.
